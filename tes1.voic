@@ -1,0 +1,27 @@
+#include <stdio.h>
+#define nn 900
+
+
+int  fact(char uu, int i)
+{
+  int som;
+  
+  int qww;
+  int prod;
+  som = prod + 12;
+  return yy;
+}
+
+char main (int i ,int er)
+{
+  int prod;
+  int som;
+  bool  idf;
+  float boo;
+  char TR;
+  boo =12;
+  som= prod+12;
+  er =  12.12;
+  idf = 12.12;
+  return TR;
+}

@@ -1,0 +1,10 @@
+fonction0:fact  level 0
+Var:som
+Var:qww
+Var:prod
+fonction1:main  level 1
+Var:prod
+Var:som
+Var:idf
+Var:boo
+Var:TR

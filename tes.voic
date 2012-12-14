@@ -1,0 +1,24 @@
+#include <stdio.h>
+#define h 99
+
+
+int main(int i, int u) 
+{
+ 
+    int ty = 12;
+    float ye = true;
+    float som;
+
+  tp=12;
+  return 0;
+}
+
+int uii(void)
+{
+  float produit = false;
+  
+  rrr = 12;
+  
+  return rrr;
+}
+

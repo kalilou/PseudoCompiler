@@ -1,0 +1,90 @@
+#include <stdio.h>
+#define nn 900
+
+int factoriel( int fact[] , int *compt)
+{
+  int io = 99;
+  int ee = 12;
+  float tt = 123;
+  int u ;
+  int ww[2];
+  int weer;
+  int hh;
+  int tarzan;
+  int dibay;
+  int calilou;
+  int palmer;
+  int r;
+  int foooolll;
+  int ddd;
+  int rr;
+  int dd;
+  int gg;
+  int err;
+  int bengaly;
+  int wr;
+  int qw;
+  int bb;
+  int bb;
+  printf ("je suis le roi");
+  printf idd,ueed,eer
+ 
+  io = 12;
+  ee = 12;
+   tt = 12 + (12 +12);
+   weer = 12 + weer;
+   
+  if(hh == true) 
+  {
+    if(weer == 23 || dibay <= 12 && calilou != 13)
+    {
+      rr = 12;
+      while (palmer == 12)
+      {
+	if(bengaly ==12)
+	{
+	  bb = 12;
+	  bb = true;
+	  dd =true;
+	 foooolll = r ;
+	  gg = 12;
+	 
+	}
+	
+      }
+      do
+      {
+	ddd = 122;
+      }while(dd >=12);
+    }
+    else 
+    {
+      err =12;
+    }
+  }
+  return 0;
+}
+
+
+int main( int argc ,char argv)
+{
+  int uii;
+  while (ee==12)
+  {
+    printf("je suis le while");
+    printf  somme,produit
+  }
+  return i;
+}
+    
+int cool( int w, int uy )
+{
+  int i;
+  int uii;
+  gg = wr + qw;
+  return u;
+}
+
+
+
+
