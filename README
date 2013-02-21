@@ -1,0 +1,11 @@
+This project is related to designing and building a compiler using the voice synthetizer and voice recognition which will 
+allow anyboday to take advantage of a new way of programming. 
+The idea started with the obsession of helping people with diseabilities, blind people or people with sight issues. 
+And this project will be Open source project. 
+Lexical Analyzer – Scanner, Syntax Analyzer, Semantic Analyzer, Intermediate Code Generator Intermediate Code Optimizer,
+Code Generator have been pretty much done. 
+
+Technology used: 
+Linux (Ubuntu)
+GTK+, for user-friendly UI
+Lex, Bison (Parsers)
